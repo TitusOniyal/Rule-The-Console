@@ -1,0 +1,12 @@
+F:\Kanik_BK\Others\ConsoleApplication1\ConsoleApplication1\bin\Release\employee.json
+F:\Kanik_BK\Others\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+F:\Kanik_BK\Others\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+F:\Kanik_BK\Others\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+F:\Kanik_BK\Others\ConsoleApplication1\ConsoleApplication1\bin\Release\EmpAssembly.dll
+F:\Kanik_BK\Others\ConsoleApplication1\ConsoleApplication1\bin\Release\Newtonsoft.Json.dll
+F:\Kanik_BK\Others\ConsoleApplication1\ConsoleApplication1\bin\Release\Newtonsoft.Json.xml
+F:\Kanik_BK\Others\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojAssemblyReference.cache
+F:\Kanik_BK\Others\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.csproj.CoreCompileInputs.cache
+F:\Kanik_BK\Others\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.csproj.CopyComplete
+F:\Kanik_BK\Others\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+F:\Kanik_BK\Others\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb

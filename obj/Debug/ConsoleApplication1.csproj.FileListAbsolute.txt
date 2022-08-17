@@ -1,0 +1,23 @@
+c:\users\thimothyou.kanik\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\thimothyou.kanik\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\thimothyou.kanik\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\thimothyou.kanik\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\thimothyou.kanik\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\thimothyou.kanik\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\Thimothyou.Kanik\TFS\Others\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\Thimothyou.Kanik\TFS\Others\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\Thimothyou.Kanik\TFS\Others\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\Thimothyou.Kanik\TFS\Others\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\Thimothyou.Kanik\TFS\Others\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\Thimothyou.Kanik\TFS\Others\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\Kanik_BK\Others\ConsoleApplication1\ConsoleApplication1\bin\Debug\employee.json
+F:\Kanik_BK\Others\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\Kanik_BK\Others\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\Kanik_BK\Others\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\Kanik_BK\Others\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+F:\Kanik_BK\Others\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+F:\Kanik_BK\Others\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+F:\Kanik_BK\Others\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+F:\Kanik_BK\Others\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CopyComplete
+F:\Kanik_BK\Others\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\Kanik_BK\Others\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
